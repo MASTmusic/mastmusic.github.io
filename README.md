@@ -57,3 +57,7 @@ Then return to **GitHub → Settings → Pages**, confirm `mastmusic.net` as the
 ## Important
 
 The site uses Google Fonts. It will still work if Google Fonts are unavailable, but typography will fall back to Arial/sans-serif.
+
+
+## MAST 2.1 additions
+Includes album detail pages, Press, Apple Music/Bandcamp/Subvert links, SoundCloud on Music only, deduplicated gallery, banner artwork, MAST symbol system, and scroll reveals. Replace the existing repository files with all files in this package.
