@@ -31,7 +31,7 @@
 @media(max-width:900px){.original-bio{grid-template-columns:1fr}.original-bio-image{position:static;max-width:520px}.quote-line-final{white-space:normal}}
 
 /* MAST 2.4 refinements */
-.footer-symbol{display:inline-block;font-family:Manrope,sans-serif;letter-spacing:-.23em;margin-left:.12em;transform:translateX(-.04em)}
+.footer-symbol{display:inline-block;font-family:Manrope,sans-serif;letter-spacing:-.16em;margin-left:.12em;transform:translateX(-.04em)}
 .release-card{align-items:start}.release-card>div:last-child{padding-top:1.2rem}.release-art img{aspect-ratio:1/1;object-fit:cover}.mini-links{flex-wrap:wrap}.mini-links a:last-child{margin-left:auto;font-weight:600}
 .credit-lines{margin-top:2rem}.credit-lines p{margin:.2rem 0;line-height:1.55}
 .album-videos{max-width:var(--max);margin:auto;padding:0 5vw 10vw}.album-videos>h2{font:500 clamp(2.4rem,5vw,5.5rem)/1 Manrope;margin:.2em 0 3rem}.album-video-grid{padding:0;max-width:none;margin:0}.album-video-grid .video-card h3{font:500 clamp(1.05rem,1.7vw,1.5rem)/1.25 Manrope;margin:1rem 0 0}
